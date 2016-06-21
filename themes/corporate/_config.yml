@@ -1,0 +1,33 @@
+# Header Menu
+menu:
+  Home: /
+     
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true # whether or not to load the fancybox library
+
+# Integrations
+disqus_shortname: 
+google_analytics:
+swiftype_install_key: 
+
+# Social
+social:
+  github: https://github.com/hotboxdevs  
+  rss: atom.xml 
+
+# Miscellaneous
+color_scheme: green   # options: blue, gray, green, orange, red, turquoise
+favicon: /favicon.ico # path from root of hexo site
+default_author: Anonymous
+
+about: HotBox Devs is a software development company based in Knoxville, TN. <br><br> HotBox Devs founded in 2015, and is focused on creating high quality solutions.
+phone: 
+email: 
+address_1: 
+address_2: 
+address_3: Knoxville, TN
+lat: 35.96539 
+long: -83.91762
